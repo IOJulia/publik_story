@@ -1,0 +1,14 @@
+h1 {
+  margin: 0 auto;
+  background: #e96363b7;
+}
+h1 {
+  font-size: large;
+  padding: 25px;
+  border: double 5px color(blue);
+}
+p {
+  font-size: 25 px;
+  font-weight: bold;
+  color: rgb(189, 216, 92);
+}
